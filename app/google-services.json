@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "660622202545",
+    "firebase_url": "https://true-ledger-3a361.firebaseio.com",
+    "project_id": "true-ledger-3a361",
+    "storage_bucket": "true-ledger-3a361.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660622202545:android:5e86f0775ac86e59657490",
+        "android_client_info": {
+          "package_name": "com.example.trueledger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660622202545-s0usl3h7s0r3rm30vlh2fog0n9qpqgb1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trueledger",
+            "certificate_hash": "0e61f3f94d8801c5237b58e79da3cff788d0d1ae"
+          }
+        },
+        {
+          "client_id": "660622202545-o7hirh72n2jlfbq537ctld0qg4v2fdrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc45E1rJUwHMLiT9tNX6AOkoZHijlr8aM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660622202545-o7hirh72n2jlfbq537ctld0qg4v2fdrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
