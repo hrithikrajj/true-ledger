@@ -27,11 +27,3 @@ Here are some screenshots of the True Ledger app in action:
 4. ![Screenshot 4](sample-images/sc_4.png)
 5. ![Screenshot 5](sample-images/sc_5.png)
 
-## Getting Started
-
-To get started with the True Ledger Android app, follow these steps:
-
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/your-username/true-ledger.git
