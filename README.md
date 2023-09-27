@@ -21,11 +21,11 @@
 
 Here are some screenshots of the True Ledger app in action:
 
-1. ![Screenshot 1](sample-images/s_1.png)
-2. ![Screenshot 2](sample-images/s_2.png)
-3. ![Screenshot 3](sample-images/s_3.png)
-4. ![Screenshot 4](sample-images/s_4.png)
-5. ![Screenshot 5](sample-images/s_5.png)
+1. ![Screenshot 1](sample-images/sc_1.png)
+2. ![Screenshot 2](sample-images/sc_2.png)
+3. ![Screenshot 3](sample-images/sc_3.png)
+4. ![Screenshot 4](sample-images/sc_4.png)
+5. ![Screenshot 5](sample-images/sc_5.png)
 
 ## Getting Started
 
